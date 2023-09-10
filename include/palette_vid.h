@@ -3,8 +3,8 @@
 
 //This palette file belongs to the file out000000001.h
 #pragma once
-#ifndef _PALETTE_VID_H_
-#define _PALETTE_VID_H_
+#ifndef PALETTE_VID_H
+#define PALETTE_VID_H
 
 #include "vid.h"
 
