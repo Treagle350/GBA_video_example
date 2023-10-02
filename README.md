@@ -5,10 +5,6 @@ Code is a proof of concept and intends to demonstrate the ability of png2gba to 
 
 GBA videos created by png2gba are currently unoptimized and bloated which greatly reduces playtime of videos.
 
-Png2gba fork supporting video conversion to GBA format is currently located at (pending merge request) : 
-
-https://github.com/Treagle350/png2gba
-
 Original master of png2gba is located at : 
 
 https://github.com/IanFinlayson/png2gba
